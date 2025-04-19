@@ -104,4 +104,4 @@ This process was designed to convert only the iOS messages that are *newer* than
 
 ## Contributing
 
-Feel free to report issues or suggest improvements via GitHub Issues or Pull Requests.
+Feel free to fork and reuse.
